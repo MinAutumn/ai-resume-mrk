@@ -1,0 +1,1 @@
+import{p as s,v as a}from"./chunk-C37GKA54-B42cK8oE.js";const e=()=>s.jsxs("nav",{className:"navbar",children:[s.jsx(a,{to:"/",children:s.jsx("p",{className:"text-2xl font-bold text-gradient",children:"ResumAI"})}),s.jsx(a,{to:"/upload",className:"primary-button w-fit",children:"Upload Resume"})]});export{e as N};
