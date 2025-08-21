@@ -1,3 +1,6 @@
+# Deployed to netlify
+Click the link to see the website https://resumai-mrk.netlify.app/
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
